@@ -12,7 +12,7 @@
 - Working on building my portfolio website
 
 ### 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [LinkedIn](www.linkedin.com/in/gyanendra-sharma-47517a2b6)
 - [GitHub](https://github.com/Gyanendrasharma1)
 - [Twitter](https://twitter.com/gyanendra_S1)
 
