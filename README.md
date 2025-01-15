@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋
+## I'm Gyanendra Sharma
 
-<!--
-**Gyanendrasharma1/Gyanendrasharma1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🌱 Aspiring Web Developer
+- 🔥 Skilled in HTML, CSS, JavaScript
+- 🌍 Exploring Git, GitHub, and Freelancing
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Tools
+- HTML, CSS, JavaScript
+- Git & GitHub
+- Working on building my portfolio website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [GitHub](https://github.com/Gyanendrasharma1)
+- [Twitter](https://twitter.com/gyanendra_S1)
+
+
+### 🏆 Achievements & Learning
+- ✅ Completed HTML Basics
+- ✅ Learned Git and GitHub Essentials
+- 🎯 Upcoming: CSS, JavaScript, and Advanced Projects
+
