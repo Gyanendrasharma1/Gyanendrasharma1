@@ -1,24 +1,8 @@
-# Hi there! 👋
-## I'm Gyanendra Sharma
+> “Code. Learn. Improve. Repeat.”
 
-### 🚀 About Me
-- 🌱 Aspiring Web Developer
-- 🔥 Skilled in HTML, CSS, JavaScript
-- 🌍 Exploring Git, GitHub, and Freelancing
+**Gyanendra Sharma**  
+Aspiring Web Developer | BCA Student  
+Learning HTML, CSS, JavaScript & Git  
+Building real-world projects and improving daily  
 
-### 🛠️ Technologies & Tools
-- HTML, CSS, JavaScript
-- Git & GitHub
-- Working on building my portfolio website
-
-### 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/gyanendra-sharma-47517a2b6/)
-- [GitHub](https://github.com/Gyanendrasharma1)
-- [Twitter](https://twitter.com/gyanendra_S1)
-
-
-### 🏆 Achievements & Learning
-- ✅ Completed HTML Basics
-- ✅ Learned Git and GitHub Essentials
-- 🎯 Upcoming: CSS, JavaScript, and Advanced Projects
-
+India | [LinkedIn](https://www.linkedin.com/in/gyanendra-sharma-47517a2b6/) | [Twitter (X)](https://x.com/GyanWebDev)
