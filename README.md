@@ -1,7 +1,7 @@
 > “Code. Learn. Improve. Repeat.”
 
 **Gyanendra Sharma**  
-Aspiring Web Developer | BCA Student  
+Aspiring Web Developer | BCA Graduate 
 Currently learning HTML, CSS, JavaScript, and Git.  
 Focused on building real-world web projects and improving every day.
 
