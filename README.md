@@ -1,21 +1,19 @@
-> “Code. Learn. Improve. Repeat.”
+> “Build something people find useful.”
 
 **Gyanendra Sharma**  
-Aspiring Web Developer | BCA Graduate 
-Currently learning HTML, CSS, JavaScript, and Git.  
-Focused on building real-world web projects and improving every day.
+Aspiring Web Developer • BCA Graduate
 
 ---
 
-### Tech Stack  
-HTML • CSS • JavaScript • Git • GitHub
+### Skills / Tech Stack  
+HTML • CSS • JavaScript • Git • GitHub • Node.js (learning)
 
 ---
 
 ### Projects  
-- [AutoFix – Mechanic Finder Web App](https://github.com/Gyanendrasharma1/AutoFIx-Mechanic-A-finder-web-app)  
-- [Portfolio Website](https://gyanendrasharma1.github.io/Gyanendra-Portfolio/)  
-- [Mini Projects](#) *(in progress)*
+- [AutoFix – Mechanic Finder Web App](https://github.com/Gyanendrasharma1/AutoFIx-Mechanic-A-finder-web-app) – Responsive web app to locate nearby mechanics with a Node.js backend  
+- [Portfolio Website](https://gyanendrasharma1.github.io/Gyanendra-Portfolio/) – Personal website showcasing my projects and skills  
+- [Mini Projects](#) – Small web projects to practice frontend skills (coming soon)
 
 ---
 
@@ -28,4 +26,5 @@ HTML • CSS • JavaScript • Git • GitHub
 ### Connect with Me  
 [LinkedIn](https://www.linkedin.com/in/gyanendra-sharma-47517a2b6/)  
 [Twitter (X)](https://x.com/GyanWebDev)  
+[Portfolio](https://gyanendrasharma1.github.io/Gyanendra-Portfolio/)  
 [GitHub](https://github.com/Gyanendrasharma1)
