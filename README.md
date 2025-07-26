@@ -1,4 +1,4 @@
-> “Code. Learn. Improve. Repeat.”
+Code. Learn. Improve. Repeat.
 
 **Gyanendra Sharma**  
 Aspiring Web Developer | BCA Student  
