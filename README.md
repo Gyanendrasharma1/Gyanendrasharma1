@@ -1,4 +1,4 @@
-> “Build something people find useful.”
+“Build something people find useful.”
 
 **Gyanendra Sharma**  
 Aspiring Web Developer • BCA Graduate
